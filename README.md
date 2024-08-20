@@ -1,9 +1,9 @@
   <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280">
+# <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280">
+    <img alt="GIF" src="https://tenor.com/bSNEU.gif?raw=true" height="380">
  </p><p>
 
 <!-- TODO: Add last video link -->
-
 
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, G Pavan kumar here. </h1>
