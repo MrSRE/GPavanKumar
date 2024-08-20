@@ -1,5 +1,5 @@
   <p align="center">
-  <img alt="GIF" src="https://tenor.com/bSNEU.gif?raw=true" height="380">
+  <img alt="GIF" src="https://tenor.com/view/joy-gif-25414590" height="380">
   </p><p>
 
 <!-- TODO: Add last video link -->
