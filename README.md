@@ -1,7 +1,6 @@
   <p align="center">
-# <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280">
-    <img alt="GIF" src="https://tenor.com/bSNEU.gif?raw=true" height="380">
- </p><p>
+  <img alt="GIF" src="https://tenor.com/bSNEU.gif?raw=true" height="380">
+  </p><p>
 
 <!-- TODO: Add last video link -->
 
