@@ -1,11 +1,11 @@
-# 👋                              Hi, I'm G Pavan Kumar
+## 👋                              Hi, I'm G Pavan Kumar
 
-##             🛠 DevOps Engineer | 🚀 Cloud Enthusiast | 🔄 Continuous Improvement Advocate
+###             🛠 DevOps Engineer | 🚀 Cloud Enthusiast | 🔄 Continuous Improvement Advocate
 
                 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a keen interest
                        in automating everything and building robust, scalable infrastructure.
 
-###                                🔧 Skills & Technologies
+####                                🔧 Skills & Technologies
 
 - **Infrastructure as Code:** Terraform, CloudFormation
 - **Configuration Management:** Ansible
@@ -16,13 +16,13 @@
 - **Scripting:** Bash, Python
 - **Version Control:** Git , BitBucket
 
-### 🏆 Certifications
+####  🏆 Certifications
 
 - AWS Certified DevOps Engineer - Professional
 - Certified Kubernetes Administrator (CKA)
 - HashiCorp Certified: Terraform Associate
 
-### 🚀 Notable Projects
+####  🚀 Notable Projects
 
 1. **Microservices Migration**
    - Led the migration of a monolithic application to a microservices architecture
@@ -37,17 +37,17 @@
    - Implemented FinOps practices, resulting in a 30% reduction in cloud spend
    - Developed automated scripts for resource tagging and unused resource cleanup
 
-### 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 📚 Latest Blog Posts
+#### 📚 Latest Blog Posts
 
 - [Implementing GitOps with ArgoCD and Kubernetes](https://yourblog.com/gitops-argocd-kubernetes)
 - [Terraform Best Practices for Managing Multi-Cloud Environments](https://yourblog.com/terraform-multi-cloud)
 - [Monitoring Microservices: A Comprehensive Guide](https://yourblog.com/monitoring-microservices)
 
-### 🤝 Let's Connect!
+#### 🤝 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/gajulapavankumar27)
 
